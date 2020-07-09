@@ -13,5 +13,6 @@ I do want to try to upload some of my game dev GDScript code down the line, but 
 
 That's it for now, I'm signing out.
 
-Cheers,\n
+Cheers,
+
 Linden
